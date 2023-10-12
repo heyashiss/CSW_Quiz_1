@@ -1,0 +1,77 @@
+.A {
+    background-color: green;
+    height: 400px;
+}
+
+.B{
+    background-color: blue;
+    height: 300px;
+    
+}
+.C{
+    height: 400px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    max-width: 90%;
+    margin: auto;
+}
+
+.box{
+    justify-content: center;
+    align-items: center;
+    color: black;
+    max-width: 80%;
+    margin: auto;
+    height: 80%;
+}
+.WT{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.CP {
+    width: 100%;
+}
+.Java {
+    font-size: 17.5px;
+        font-family: serif;
+        border: 10px solid rgb(92, 8, 177);
+        margin-left: auto;
+        margin-top: auto;
+        padding-left: 3.5%;
+        padding-right: 3.5%;
+        padding-top: 3.5%;
+        padding-bottom: 3.5%;
+}
+.header{
+    font-family: sans-serif;
+    text-align: center;
+    background-color: aliceblue;
+    font-size: 30px;
+}
+.Large{
+    font-family:  serif;
+    font-weight: bold;
+    font-size: 35px;
+}
+
+.Small{
+    font-size: 17.5px;
+    border: 10px dashed yellow;
+}
+.logo img {
+    width: 200px;
+    height :200px;
+    border: 3px solid black;
+    border-radius: 26px;
+    margin-top: 20px;
+}
+.jbox{padding: 0px 50px;}
+* {
+    margin: 0;
+    padding: 0;
+}
+
+
